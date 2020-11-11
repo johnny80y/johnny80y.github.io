@@ -1,0 +1,123 @@
+body {
+  background-color: #5e5e5e; /* had #707070 */
+  border-style: solid;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+
+h1 {
+  color: #cfd1ff;
+  margin-left: 0px;
+  text-align: center;
+  font-family: "Lucida Console", Courier;
+  font-size: 50px;
+  /*  text-decoration: underline;  */
+}
+
+
+h2 {
+	color: #cfd1ff;
+	margin-left: 0px;
+	text-align: center;
+	font-family: "Lucida Console", Courier;
+	font-size: 40px;
+}
+
+
+p {
+	color: #cfd1ff;
+	margin-left: 0px;
+	text-align: center;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-family: "Lucida Console", Courier;
+}
+
+
+A {
+	color: #cfd1ff;
+	font-family: "Lucida Console", Courier;
+}
+
+div {
+	color: #cfd1ff;
+	text-align: center;
+}
+
+
+h3 {
+	color: #cfd1ff;
+	margin-left: 0px;
+	margin-bottom: -6px;
+	margin-top: 40px;
+	text-align: center;
+	font-family: "Lucida Console", Courier;
+	text-decoration: bold;
+	font-size: 25px;
+}
+
+
+h4 {
+	color: #cfd1ff;
+	margin-left: 0px;
+	text-align: center;
+	font-family: "Lucida Console", Courier;
+}
+
+
+hr {
+  border: 0.5px solid black;
+  border-radius: px;
+}
+
+button {
+  background-color: lightgrey; /* Green */
+  border: 0.5px solid black;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button:hover {
+  background-color: grey;
+  border: 0.5px solid black;
+  color: black;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.ButtonOne {
+	background-color: lightgrey;
+	border: 0.5px solid black;
+	color: black;
+	padding: 15px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+.ButtonOne:hover {
+	background-color: grey;
+	border: 0.5px solid black;
+	color: black;
+	padding: 15px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.newSection {
+  border: 10px solid black;
+  border-radius: px;
+}
+
+
