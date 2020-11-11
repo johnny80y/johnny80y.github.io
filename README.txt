@@ -1,14 +1,20 @@
 OSINT RESEARCH TOOL
 
 #-- Johannes Geiger
-#-- November 2020
+#-- Initial Commit November 2020
 
-To use the tool, simply unpack the .zip archive.
-	DO NOT delete any files in the folder.
-	DO NOT move any files in the folder.
+## USE THE TOOL
 
-All you need to do is open the file "osint_guide.html" in Chrome or Firefox.
+To use the tool, simply navigate to:    https://johnny80y.github.io/    in your browser.
+Done!
 
 
-##-- System requirements: Chrome or Firefox
+
+## CONTRIBUTE
+
+Just get in tough if you would like me to add/remove any links or if you have other ideas for how this tool could be improved.
+I just wrote this up in an afternoon, so please feel free to criticize or provide feedback.
+
+
+##-- System requirements: Chrome or Firefox (other browsers should also work, but I haven't tested them).
 
